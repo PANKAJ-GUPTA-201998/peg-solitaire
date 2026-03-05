@@ -1,0 +1,15 @@
+export function createClassicBoard(){
+
+return [
+
+[null,null,1,1,1,null,null],
+[null,null,1,1,1,null,null],
+[1,1,1,1,1,1,1],
+[1,1,1,0,1,1,1],
+[1,1,1,1,1,1,1],
+[null,null,1,1,1,null,null],
+[null,null,1,1,1,null,null]
+
+]
+
+}
